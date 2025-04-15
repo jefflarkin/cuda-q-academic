@@ -1,0 +1,3 @@
+name = "cuda-q-academic/visualizations"
+version = "0.0.1"
+description = "Encapsulates several CUDA-Q Academic visualizations"
